@@ -66,7 +66,7 @@ Feel free to open an [issue] with your suggestion!
             <a> <img width="500">
         </td>
   <tr>
-  <tr>
+<!--   <tr>
     <td>
         <p align="center">
             <a href="https://github.com/Calebbii" target="_blank" rel="noreferrer">
@@ -74,7 +74,7 @@ Feel free to open an [issue] with your suggestion!
         </a>
             <p align="center">Calebbii</p>
         </p>
-    </td>
+    </td> -->
    
   
 </table>
