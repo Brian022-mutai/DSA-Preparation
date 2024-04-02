@@ -75,22 +75,6 @@ Feel free to open an [issue] with your suggestion!
             <p align="center">Calebbii</p>
         </p>
     </td>
-    <td>           
-        <p align="center">
-            <a href="https://github.com/MuchokiDavid" target="_blank" rel="noreferrer">
-                <img src="https://github.com/MuchokiDavid.png" width="50">
-        </a>
-            <p align="center">MuchokiDavid</p>
-        </p>
-    </td>
-    <td>
-      <p align="center">
-            <a href="https://github.com/michaelkorir" target="_blank" rel="noreferrer">
-                <img src="https://github.com/michaelkorir.png" width="50">
-        </a>
-            <p align="center">michaelkorir</p>
-        </p>
-    </td>
-  </tr>
+   
   
 </table>
