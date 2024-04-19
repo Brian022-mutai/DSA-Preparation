@@ -39,8 +39,6 @@ In addition, you should have a good grasp on common algorithms such as:
 - Breadth-first search
 - Depth-first search
 - Binary search
-- Recursion
-
 
 ## Solutions
 
