@@ -32,7 +32,6 @@ operations:
 - Heaps
 - Stacks
 - Trees
-- Graphs
 
 In addition, you should have a good grasp on common algorithms such as:
 
